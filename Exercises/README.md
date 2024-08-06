@@ -40,11 +40,12 @@
 
 All the exercises  
 
+<!--
 + Questions [PDF](https://github.com/georgios-stats/Machine_Learning_and_Neural_Networks_III_Epiphany/blob/main/Exercises/Exercise_sheet_questions.pdf) & [HTML](https://htmlpreview.github.io/?https://github.com/georgios-stats/Machine_Learning_and_Neural_Networks_III_Epiphany/blob/main/Exercises/Exercise_sheet_questions_xhtml/Exercise_sheet_questions.xhtml)  
 
 + Complete [PDF](https://github.com/georgios-stats/Machine_Learning_and_Neural_Networks_III_Epiphany/blob/main/Exercises/Exercise_sheet_complete.pdf) & [HTML](https://htmlpreview.github.io/?https://github.com/georgios-stats/Machine_Learning_and_Neural_Networks_III_Epiphany/blob/main/Exercises/Exercise_sheet_complete_xhtml/Exercise_sheet_complete.xhtml)  
 
-
+-->
 ------------------------------------------------------------------------
 
 
