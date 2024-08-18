@@ -39,59 +39,82 @@
 
 ### Lecture handouts
 
+<!--
 -   [Lecture_handouts_MLNN3.pdf](https://github.com/georgios-stats/Machine_Learning_and_Neural_Networks_III_Epiphany/blob/master/Lecture_handouts/Lecture_handouts_MLNN3.pdf):
+-->
 
 ### Individual handouts
 
-#### Stochastic learning  
-
 Learning problem: Definitions, notation, and formulation -A recap  
 
+<!--
 + [01.Statistical_learning_framework_recap.pdf](https://github.com/georgios-stats/Machine_Learning_and_Neural_Networks_III_Epiphany/blob/master/Lecture_handouts/01.Statistical_learning_framework_recap.pdf)  
-
+-->
 
 Elements of convex learning problems  
 
-+ [02.Convex_learning_problems.pdf](https://github.com/georgios-stats/Machine_Learning_and_Neural_Networks_III_Epiphany/blob/main/Lecture_handouts/02.Convex_learning_problems.pdf)  
+<!--
++ [02.Convex_learning_problems.pdf](https://github.com/georgios-stats/Machine_Learning_and_Neural_Networks_III_Epiphany/blob/main/Lecture_handouts/02.Convex_learning_problems.pdf)       
+-->  
 
 Learnability and stability  
 
-+ [03.Learnability_and_stability.pdf](https://github.com/georgios-stats/Machine_Learning_and_Neural_Networks_III_Epiphany/blob/main/Lecture_handouts/03.Learnability_and_stability.pdf)  
+<!--
++ [03.Learnability_and_stability.pdf](https://github.com/georgios-stats/Machine_Learning_and_Neural_Networks_III_Epiphany/blob/main/Lecture_handouts/03.Learnability_and_stability.pdf)       
+-->  
 
+Gradient descent  
+
+<!--
++ [04.Gradient_descent.pdf](https://github.com/georgios-stats/Machine_Learning_and_Neural_Networks_III_Epiphany/blob/main/Lecture_handouts/04.Gradient_descent.pdf)  
+-->
 
 Stochastic gradient descent  
 
-+ [04.Gradient_descent.pdf](https://github.com/georgios-stats/Machine_Learning_and_Neural_Networks_III_Epiphany/blob/main/Lecture_handouts/04.Gradient_descent.pdf)  
+<!--  
++ [05.Stochastic_gradient_descent.pdf](https://github.com/georgios-stats/Machine_Learning_and_Neural_Networks_III_Epiphany/blob/main/Lecture_handouts/05.Stochastic_gradient_descent.pdf)     
+-->  
 
-+ [05.Stochastic_gradient_descent.pdf](https://github.com/georgios-stats/Machine_Learning_and_Neural_Networks_III_Epiphany/blob/main/Lecture_handouts/05.Stochastic_gradient_descent.pdf)  
+Extensions of stochastic gradient descent for special cases   
 
+<!--
+-->
 
 Stochastic gradient Langevin dynamics  
 
-+ [06.Stochastic_gradient_Langevine_dynamics.pdf](https://github.com/georgios-stats/Machine_Learning_and_Neural_Networks_III_Epiphany/blob/master/Lecture_handouts/06.Stochastic_gradient_Langevine_dynamics.pdf)  
-
+<!--
++ [06.Stochastic_gradient_Langevine_dynamics.pdf](https://github.com/georgios-stats/Machine_Learning_and_Neural_Networks_III_Epiphany/blob/master/Lecture_handouts/06.Stochastic_gradient_Langevine_dynamics.pdf)     
+-->
 
 Support Vector Machines  
 
-+ [07.Support_Vector_Machines.pdf](https://github.com/georgios-stats/Machine_Learning_and_Neural_Networks_III_Epiphany/blob/master/Lecture_handouts/07.Support_Vector_Machines.pdf)  
-
+<!-- 
++ [07.Support_Vector_Machines.pdf](https://github.com/georgios-stats/Machine_Learning_and_Neural_Networks_III_Epiphany/blob/master/Lecture_handouts/07.Support_Vector_Machines.pdf)     
+-->
 
 Kernel methods  
 
-+ [08.Kernel_Methods.pdf](https://github.com/georgios-stats/Machine_Learning_and_Neural_Networks_III_Epiphany/blob/master/Lecture_handouts/08.Kernel_Methods.pdf) 
-
-
-Artificial Neural Networks  
-
-+ [09.Artificial_neural_networks.pdf](https://github.com/georgios-stats/Machine_Learning_and_Neural_Networks_III_Epiphany/blob/master/Lecture_handouts/09.Artificial_neural_networks.pdf)  
-
+<!--
++ [08.Kernel_Methods.pdf](https://github.com/georgios-stats/Machine_Learning_and_Neural_Networks_III_Epiphany/blob/master/Lecture_handouts/08.Kernel_Methods.pdf)   
+-->
 
 Multi-class classification  
 
-+ [10.Multiclass_classification.pdf](https://github.com/georgios-stats/Machine_Learning_and_Neural_Networks_III_Epiphany/blob/main/Lecture_handouts/10.Multiclass_classification.pdf)  
+<!--
++ [10.Multiclass_classification.pdf](https://github.com/georgios-stats/Machine_Learning_and_Neural_Networks_III_Epiphany/blob/main/Lecture_handouts/10.Multiclass_classification.pdf)    
+-->
+
+Artificial Neural Networks  
+
+<!--
++ [09.Artificial_neural_networks.pdf](https://github.com/georgios-stats/Machine_Learning_and_Neural_Networks_III_Epiphany/blob/master/Lecture_handouts/09.Artificial_neural_networks.pdf)   
+-->
 
 Gaussian process regression  
 
+<!--
 + [11.Gaussian_process_regression.pdf](https://github.com/georgios-stats/Machine_Learning_and_Neural_Networks_III_Epiphany/blob/main/Lecture_handouts/11.Gaussian_process_regression.pdf)  
+-->
+
 
 
