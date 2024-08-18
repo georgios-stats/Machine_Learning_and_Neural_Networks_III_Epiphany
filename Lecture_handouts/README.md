@@ -45,7 +45,7 @@
 
 ------------------------------------------------------------------------
 
-### Individual handouts  
+### Individual handouts
 
 Learning problem: Definitions, notation, and formulation -A recap  
 
@@ -77,7 +77,7 @@ Stochastic gradient descent
 + [05.Stochastic_gradient_descent.pdf](https://github.com/georgios-stats/Machine_Learning_and_Neural_Networks_III_Epiphany/blob/main/Lecture_handouts/05.Stochastic_gradient_descent.pdf)     
 -->  
 
-Extensions of stochastic gradient descent for special cases   
+Extensions of stochastic gradient descent   
 
 <!--
 -->
