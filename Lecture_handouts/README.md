@@ -43,9 +43,9 @@
 -   [Lecture_handouts_MLNN3.pdf](https://github.com/georgios-stats/Machine_Learning_and_Neural_Networks_III_Epiphany/blob/master/Lecture_handouts/Lecture_handouts_MLNN3.pdf):
 -->
 
-### Individual handouts  
-
 ------------------------------------------------------------------------
+
+### Individual handouts  
 
 Learning problem: Definitions, notation, and formulation -A recap  
 
