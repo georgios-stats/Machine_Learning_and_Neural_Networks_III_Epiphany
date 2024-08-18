@@ -33,27 +33,27 @@
 
 ------------------------------------------------------------------------
 
-# Details
+# Details  
 
 This repository contains the teaching material for the module ***MATH3431 Machine Learning and Neural Networks III*** in Epiphany term in 2025 @ Durham University.
 
 ------------------------------------------------------------------------
 
-### Description
+### Description  
 
--   '[Description.pdf](https://github.com/georgios-stats/Machine_Learning_and_Neural_Networks_III_Epiphany/blob/master/Description.pdf)' contains the ILOs, sylabus, and bibliography
+-   '[Description.pdf](https://github.com/georgios-stats/Machine_Learning_and_Neural_Networks_III_Epiphany/blob/master/Description.pdf)' contains the ILOs, syllabus, and bibliography
 
-### Lectures
+### Lectures  
 
--   '[Lecture_handouts](https://github.com/georgios-stats/Machine_Learning_and_Neural_Networks_III_Epiphany/tree/main/Lecture_handouts#details-about-lecture-material)' folder contains the material used in your lectures and problem classes
+-   '[Lecture_notes](https://github.com/georgios-stats/Machine_Learning_and_Neural_Networks_III_Epiphany/tree/main/Lecture_notes#details-about-lecture-material)' folder contains the material used in your lectures.
 
-### Computer practicals
+### Computer_practicals (Labs)  
 
--   '[Computer_practicals](https://github.com/georgios-stats/Machine_Learning_and_Neural_Networks_III_Epiphany/tree/main/Computer_practical#aim)' folder contains the material for your computer practical classes
+-   '[Lab notes](https://github.com/georgios-stats/Machine_Learning_and_Neural_Networks_III_Epiphany/tree/main/Computer_practical#aim)' folder contains the material for your computer practical classes.
 
-### Excercises
+### Excercises  
 
--   '[Exercises](https://github.com/georgios-stats/Machine_Learning_and_Neural_Networks_III_Epiphany/tree/main/Exercises#details-about-exercise-material)' folder contains the material used for your practice at home
+-   '[Exercises](https://github.com/georgios-stats/Machine_Learning_and_Neural_Networks_III_Epiphany/tree/main/Exercises#details-about-exercise-material)' folder contains the material used for your practice at home.
 
 <!--
 ### Additional reading material
@@ -87,4 +87,3 @@ Please visit:
 
 
 ------------------------------------------------------------------------
-
