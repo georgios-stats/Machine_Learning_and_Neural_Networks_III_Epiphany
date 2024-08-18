@@ -33,11 +33,11 @@
 
 ------------------------------------------------------------------------
 
-# Details about lecture material
+# Details about lecture notes
 
 ------------------------------------------------------------------------
 
-### Lecture handouts
+### Lecture notes  
 
 <!--
 -   [Lecture_handouts_MLNN3.pdf](https://github.com/georgios-stats/Machine_Learning_and_Neural_Networks_III_Epiphany/blob/master/Lecture_handouts/Lecture_handouts_MLNN3.pdf):
@@ -45,7 +45,7 @@
 
 ------------------------------------------------------------------------
 
-### Individual handouts
+### Individual lecture notes
 
 Learning problem: Definitions, notation, and formulation -A recap  
 
